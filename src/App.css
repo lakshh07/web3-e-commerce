@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+
+.chakra-select__icon-wrapper {
+  /* display: none !important; */
+}
+.logo {
+  -webkit-text-stroke: 2.5px #1b729c;
+  color: transparent !important;
+}
+.logo2 {
+  -webkit-text-stroke: 2px white !important;
+  color: transparent !important;
+}
+.logo3 {
+  -webkit-text-stroke: 10px white !important;
+  color: transparent !important;
+  font-family: Raleway !important;
+}
+.main-bg {
+  position: absolute;
+  top: -0% !important;
+  z-index: -1;
+}
+
+.box {
+  height: 60px;
+  width: 60px;
+  /* background-color: #1b729c; */
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.box-selected {
+  border: 2px solid black;
+}
+.box-h {
+  font-size: 18px !important;
+}
+.orange {
+  background-color: #ff5b02;
+}
+.red {
+  background-color: red;
+}
+.black {
+  background-color: black;
+}
+.gray {
+  background-color: gray;
+}
+.blue {
+  background-color: blue;
+}
+.blueviolet {
+  background-color: blueviolet;
+}
